@@ -12,8 +12,8 @@ class MiClase{
         double y;
 
     public:
-        double foo(int arg);
-        double bar(int arg);
+        void foo(int arg);
+        void bar(int arg);
 
 };
 
