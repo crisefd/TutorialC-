@@ -3,3 +3,4 @@ obj/
 Tutorial*
 *.html*
 *.gch
+*.o
